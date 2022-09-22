@@ -9,3 +9,5 @@ As my first comment, since Github page would not render the ipynb file for an un
  - a rendered image: https://nbviewer.ipython.org/github/deeporigami/Capstone-1/blob/master/Capstone%20Three%20Different%20Lessons%20from%20Three%20Different%20Clusterings.ipynb
 
 As my second comment, the data source has been modified at the discretion of the data site owner, the Argentinean government and Buenos Aires City Government. Therefore, some of the data used for the project is unfortunately unavailable today.
+
+Here is an associated link to my article post at Medium: https://deeporigami.medium.com/three-different-lessons-from-three-different-clustering-analyses-data-science-capstone-5f2be29cb3b2
